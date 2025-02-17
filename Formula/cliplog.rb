@@ -6,9 +6,9 @@ class Cliplog < Formula
   version "1.0.0"
 
   def install
-    bin.install "cliplog"
-    bin.install "cliplog_watcher.sh"
-    bin.install "cliplog_export.sh"
+    bin.install "bin/cliplog"
+    bin.install "bin/cliplog_watcher.sh"
+    bin.install "bin/cliplog_export.sh"
   end
 
   def caveats

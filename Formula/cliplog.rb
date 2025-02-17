@@ -1,8 +1,8 @@
 class Cliplog < Formula
   desc "CLI tool to track clipboard history and export as Markdown"
   homepage "https://github.com/roukara/cliplog"
-  url "https://github.com/roukara/cliplog/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "449db662f54dd4b402a272292bd3ebbb5cdc06df2246e0d1d0e9472855942c0e"
+  url "https://github.com/roukara/cliplog/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "9a078d380b02986e024b635aa1261e1db8dcaf19b66da8bdc2a19f8880e292da"
   version "1.0.0"
 
   def install
